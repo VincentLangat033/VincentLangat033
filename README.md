@@ -21,7 +21,7 @@ I have two years of experience in web development and have been creating full-st
 <!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
   
-  Watch my Contribution graph get eaten by a snake1
+ # Snake eating Contribution graph!
 ![snake gif](https://github.com/VincentLangat033/VincentLangat033/blob/output/github-contribution-grid-snake.gif)
 
 ---
