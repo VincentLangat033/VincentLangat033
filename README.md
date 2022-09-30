@@ -20,6 +20,9 @@ I have two years of experience in web development and have been creating full-st
 
 <!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
+  
+  Watch my Contribution graph get eaten by a snake1
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VincentLangat033&icon=0&color=0)](https://visitcount.itsvg.in)
