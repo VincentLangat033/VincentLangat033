@@ -18,8 +18,8 @@ I have two years of experience in web development and have been creating full-st
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!-- ### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VincentLangat033&icon=0&color=0)](https://visitcount.itsvg.in)
