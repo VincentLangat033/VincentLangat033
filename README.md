@@ -5,7 +5,7 @@ I have two years of experience in web development and have been creating full-st
 <!-- ### Hi there 👋
 
 
-**Zac-Mwangi/Zac-Mwangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VincentLangat033/VincentLangat033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
@@ -52,8 +52,7 @@ Here are some ideas to get you started: -->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VincentLangat033&theme=radical&no-frame=false&no-bg=true&margin-w=4)
  -->
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 <!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
