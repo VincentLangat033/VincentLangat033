@@ -49,6 +49,30 @@ Language Name
 Flutter
 </td>
 </tr>
+<tr>
+<td>
+<img src='img/icons/Dart.svg' title='Dart' alt='dart' width='40'>&nbsp;&nbsp;
+</td>
+<td>
+Dart
+</td>
+</tr>
+<tr>
+<td>
+<img src='img/icons/Jest.svg' title='Jest' alt='Jest' width='40'>&nbsp;&nbsp;
+</td>
+<td>
+Jest
+</td>
+</tr>
+<tr>
+<td>
+<img src='img/icons/Webpack.svg' title='Webpack' alt='Webpack' width='40'>&nbsp;&nbsp;
+</td>
+<td>
+Webpack
+</td>
+</tr>
 
 </table>
 | <img src='img/icons/Flutter.svg' title='Flutter' alt='Flutter' width='40'>&nbsp;&nbsp; |
