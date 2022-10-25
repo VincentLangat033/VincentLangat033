@@ -34,12 +34,12 @@ My name is **Vincent Kimutai** and I'm a  _~~Passionate!~~_ 😉 **Full-Stack-De
 <div>
 | Title        | 
 | ------------- |
-| <img src='img/icons/Flutter.svg' title='Flutter' alt='Flutter' width='40'>&nbsp;&nbsp;
-| <img src='img/icons/Dart.svg' title='Dart' alt='dart' width='40'>&nbsp;&nbsp;
-| <img src='img/icons/Jest.svg' title='Jest' alt='Jest' width='40'>&nbsp;&nbsp;
-| <img src='img/icons/Webpack.svg' title='Webpack' alt='Webpack' width='40'>&nbsp;&nbsp;
-| <img src='img/icons/Storybook.svg' title='Storybook' alt='Storybook' width='40'>&nbsp;&nbsp;
-| <img src='img/icons/Styleguidist.svg' title='Styleguidist' alt='Styleguidist' width='40'>&nbsp;&nbsp;
+| <img src='img/icons/Flutter.svg' title='Flutter' alt='Flutter' width='40'>&nbsp;&nbsp; |
+| <img src='img/icons/Dart.svg' title='Dart' alt='dart' width='40'>&nbsp;&nbsp; |
+| <img src='img/icons/Jest.svg' title='Jest' alt='Jest' width='40'>&nbsp;&nbsp; |
+| <img src='img/icons/Webpack.svg' title='Webpack' alt='Webpack' width='40'>&nbsp;&nbsp; |
+| <img src='img/icons/Storybook.svg' title='Storybook' alt='Storybook' width='40'>&nbsp;&nbsp; |
+| <img src='img/icons/Styleguidist.svg' title='Styleguidist' alt='Styleguidist' width='40'>&nbsp;&nbsp; |
 </div>
 <br />
 
