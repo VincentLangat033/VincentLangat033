@@ -41,6 +41,14 @@ Language Icon
 Language Name
 </th>
 </tr>
+<tr>
+<td>
+<img src='img/icons/Flutter.svg' title='Flutter' alt='Flutter' width='40'>&nbsp;&nbsp;
+</td>
+<td>
+Flutter
+</td>
+</tr>
 
 </table>
 | <img src='img/icons/Flutter.svg' title='Flutter' alt='Flutter' width='40'>&nbsp;&nbsp; |
