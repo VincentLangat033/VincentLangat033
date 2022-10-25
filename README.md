@@ -108,7 +108,7 @@ My name is **Vincent Kimutai** and I'm a _~~Passionate!~~_ 😉 **Full-Stack-Dev
   <tr>
     <th>Github Stats</th>
     <th>Languages</th>
-    <th> Further Stats: </th>
+  
   </tr>
   <tr>
     <td>
@@ -121,13 +121,19 @@ My name is **Vincent Kimutai** and I'm a _~~Passionate!~~_ 😉 **Full-Stack-Dev
             <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLangat033&show_icons=true&theme=algolia&layout=compact" alt="VincentLangat033" width='400px'/>
         </a>
     </td>
+
+  </tr>
+</table>
+<table>
+  <th>
+  Further Stats:
+     
+  </th>
     <td>
-    <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=VincentLangat033&theme=radical&hide_border=false)<br/> -->
             <a href="https://github.com/VincentLangat033/VincentLangat033">
             <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VincentLangat033&theme=radical&hide_border=falset" alt="VincentLangat033" width='400px'/>
         </a>
     </td>
-  </tr>
 </table>
 
 ## 🔎 How to reach me:
