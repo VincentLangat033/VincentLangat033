@@ -16,22 +16,14 @@ My name is **Vincent Kimutai** and I'm a  _~~Passionate!~~_ 😉 **Full-Stack-De
 🛠 **and more:**
 <div align='center'>
     <img src='img/icons/Javascript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
-    <!-- <img src='img/icons/Java.svg' title='Java' alt='Java' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Apache Cordova.svg' title='Apache Cordova' alt='Apache Cordova' width='40'>&nbsp;&nbsp; -->
     <img src='img/icons/React Router.svg' title='React Router' alt='React Router' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Git.svg' title='Git' alt='Git' width='40'>&nbsp;&nbsp;
     <img src='img/icons/SQL.svg' title='SQL' alt='SQL' width='40'>&nbsp;&nbsp;
     <img src='img/icons/HTML.svg' title='HTML' alt='HTML' width='40'>&nbsp;&nbsp;
     <img src='img/icons/CSS.svg' title='CSS' alt='CSS' width='40'>&nbsp;&nbsp;
-    <!-- <img src='img/icons/Less.svg' title='Less' alt='Less' width='40'>&nbsp;&nbsp; -->
     <img src='img/icons/Figma.svg' title='Figma' alt='Figma' width='40'>&nbsp;&nbsp;
-    <!-- <img src='img/icons/Photoshop.svg' title='Photoshop' alt='Photoshop' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Zeplin.svg' title='Zeplin' alt='Zeplin' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Swagger.svg' title='Swagger' alt='Swagger' width='40'>&nbsp;&nbsp; -->
     <img src='img/icons/Postman.svg' title='Postman' alt='Postman' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Enzyme.svg' title='Enzyme' alt='Enzyme' width='40'>&nbsp;&nbsp;
-    <!-- <img src='img/icons/Jest.svg' title='Jest' alt='Jest' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Webpack.svg' title='Webpack' alt='Webpack' width='40'>&nbsp;&nbsp; -->
     <img src='img/icons/Gulp.svg' title='Gulp' alt='Gulp' width='40'>&nbsp;&nbsp;
     <img src='img/icons/Babel.svg' title='Babel' alt='Babel' width='40'>&nbsp;&nbsp;
  
@@ -66,9 +58,24 @@ My name is **Vincent Kimutai** and I'm a  _~~Passionate!~~_ 😉 **Full-Stack-De
 
 <br />
 
-<!-- ## 📈 Stats:
- -->
-
+<table>
+  <tr>
+    <th>Github Stats</th>
+    <th>Languages</th>
+  </tr>
+  <tr>
+    <td>
+        <a href="https://github.com/VincentLangat033/VincentLangat033">
+          <img align="right" src="https://github-readme-stats.vercel.app/api?username=VincentLangat033&count_private=true&show_icons=true&theme=algolia&layout=compact" alt="VincentLangat033" width='400px'/>
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/VincentLangat033/VincentLangat033">
+            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLangat033&show_icons=true&theme=algolia&layout=compact" alt="VincentLangat033" width='400px'/>
+        </a>
+    </td>
+  </tr>
+</table>
 ## 🔎 How to reach me:
 <p>Email me: <a href='mailto:kimutailangat033@gmail.com'>kimutailangat033@gmail.com</a> or welcome to <a href='https://vinnie-kim-portfolio.vercel.app/' alt='https://vinnie-kim-portfolio.vercel.app/' target='_blank'>My private page</a>!</p>
 
