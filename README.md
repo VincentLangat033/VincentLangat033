@@ -32,12 +32,14 @@ My name is **Vincent Kimutai** and I'm a  _~~Passionate!~~_ 😉 **Full-Stack-De
 
 🔬 **At the moment I'm interested in:**
 <div>
-    <img src='img/icons/Flutter.svg' title='Flutter' alt='Flutter' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Dart.svg' title='Dart' alt='dart' width='40'>&nbsp;&nbsp;
-        <img src='img/icons/Jest.svg' title='Jest' alt='Jest' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Webpack.svg' title='Webpack' alt='Webpack' width='40'>&nbsp;&nbsp;
-       <img src='img/icons/Storybook.svg' title='Storybook' alt='Storybook' width='40'>&nbsp;&nbsp;
-    <img src='img/icons/Styleguidist.svg' title='Styleguidist' alt='Styleguidist' width='40'>&nbsp;&nbsp;
+| Title        | 
+| ------------- |
+| <img src='img/icons/Flutter.svg' title='Flutter' alt='Flutter' width='40'>&nbsp;&nbsp;
+| <img src='img/icons/Dart.svg' title='Dart' alt='dart' width='40'>&nbsp;&nbsp;
+| <img src='img/icons/Jest.svg' title='Jest' alt='Jest' width='40'>&nbsp;&nbsp;
+| <img src='img/icons/Webpack.svg' title='Webpack' alt='Webpack' width='40'>&nbsp;&nbsp;
+| <img src='img/icons/Storybook.svg' title='Storybook' alt='Storybook' width='40'>&nbsp;&nbsp;
+| <img src='img/icons/Styleguidist.svg' title='Styleguidist' alt='Styleguidist' width='40'>&nbsp;&nbsp;
 </div>
 <br />
 
@@ -76,6 +78,7 @@ My name is **Vincent Kimutai** and I'm a  _~~Passionate!~~_ 😉 **Full-Stack-De
     </td>
   </tr>
 </table>
+
 ## 🔎 How to reach me:
 <p>Email me: <a href='mailto:kimutailangat033@gmail.com'>kimutailangat033@gmail.com</a> or welcome to <a href='https://vinnie-kim-portfolio.vercel.app/' alt='https://vinnie-kim-portfolio.vercel.app/' target='_blank'>My private page</a>!</p>
 
