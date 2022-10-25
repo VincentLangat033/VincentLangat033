@@ -1,4 +1,78 @@
-# 💫 About Me:
+<h1 align='center'>< Hello world! /> 🤘🏻</h1>
+
+My name is **Vincent Kimutai** and I'm _~~Passionate!~~_ 😉 **frontend-developer**!
+
+<br />
+
+⚒ **The main stack of technologies I use:**
+<div>
+    <!-- <img src='img/icons/Typescript.svg' title='TypeScript' alt='TypeScript' width='40'>&nbsp;&nbsp; -->
+    <img src='img/icons/React.svg' title='React' alt='React' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Redux.svg' title='Redux' alt='Redux' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/SASS.svg' title='SASS / SCSS' alt='SASS / SCSS' width='40'>&nbsp;&nbsp;
+</div>
+<br />
+
+🛠 **and more:**
+<div align='center'>
+    <img src='img/icons/Javascript.svg' title='JavaScript' alt='JavaScript' width='40'>&nbsp;&nbsp;
+    <!-- <img src='img/icons/Java.svg' title='Java' alt='Java' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Apache Cordova.svg' title='Apache Cordova' alt='Apache Cordova' width='40'>&nbsp;&nbsp; -->
+    <img src='img/icons/React Router.svg' title='React Router' alt='React Router' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Git.svg' title='Git' alt='Git' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/SQL.svg' title='SQL' alt='SQL' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/HTML.svg' title='HTML' alt='HTML' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/CSS.svg' title='CSS' alt='CSS' width='40'>&nbsp;&nbsp;
+    <!-- <img src='img/icons/Less.svg' title='Less' alt='Less' width='40'>&nbsp;&nbsp; -->
+    <img src='img/icons/Figma.svg' title='Figma' alt='Figma' width='40'>&nbsp;&nbsp;
+    <!-- <img src='img/icons/Photoshop.svg' title='Photoshop' alt='Photoshop' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Zeplin.svg' title='Zeplin' alt='Zeplin' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Swagger.svg' title='Swagger' alt='Swagger' width='40'>&nbsp;&nbsp; -->
+    <img src='img/icons/Postman.svg' title='Postman' alt='Postman' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Enzyme.svg' title='Enzyme' alt='Enzyme' width='40'>&nbsp;&nbsp;
+    <!-- <img src='img/icons/Jest.svg' title='Jest' alt='Jest' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Webpack.svg' title='Webpack' alt='Webpack' width='40'>&nbsp;&nbsp; -->
+    <img src='img/icons/Gulp.svg' title='Gulp' alt='Gulp' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Babel.svg' title='Babel' alt='Babel' width='40'>&nbsp;&nbsp;
+ 
+</div>
+<br />
+
+🔬 **At the moment I'm interested in:**
+<div>
+    <img src='img/icons/Flutter.svg' title='Flutter' alt='Flutter' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Dart.svg' title='Dart' alt='dart' width='40'>&nbsp;&nbsp;
+        <img src='img/icons/Jest.svg' title='Jest' alt='Jest' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Webpack.svg' title='Webpack' alt='Webpack' width='40'>&nbsp;&nbsp;
+       <img src='img/icons/Storybook.svg' title='Storybook' alt='Storybook' width='40'>&nbsp;&nbsp;
+    <img src='img/icons/Styleguidist.svg' title='Styleguidist' alt='Styleguidist' width='40'>&nbsp;&nbsp;
+</div>
+<br />
+
+## 🎯 Projects:
+<br />
+
+| Title        | Type        | Description          | Technologies  |
+| ------------- | ------------- | ------------- | ----- |
+| [POS CLI](https://github.com/VincentLangat033/sprint-one-python-POS-CLI) | <div align='center' title='Private'>🔑</div> | A POS command line system based in python | Python |
+| [HMS](https://hmsphase2project.netlify.app/) | <div align='center' title='Real-Estate'>💰</div> | House Management System | JavaScript, React, Redux, JSON,  |
+| [My Portfolio](https://vinnie-kim-portfolio.vercel.app/) | <div align='center' title='Personal' >💰</div> | My personal portfolio Website |  JavaScript, React, Redux, SASS/SCSS, Webpack |
+| [Movies-Zangu](https://vincentlangat033.github.io/Phase-1-Project/) | <div align='center' title='Entertainment' >💰</div> | Movie Information System | JavaScript, SASS/SCSS, Webpack |
+| [Nerdware-System](https://vincentlangat033.github.io/Nerdware-System-Technologies/) | <div align='center' title='Commercial'>💰</div> | Nerdware System  Technologies clone | JavaScript, React, Redux, SASS/SCSS, Webpack |
+| [Moringa Website](https://vincentlangat033.github.io/moringawebsite/) | <div align='center' title='Training'>🎓</div> |Moringa Website clone| HTML, CSS, JavaScript |
+| [Movers Website](https://www.npmjs.com/package/@neikan/rc-lib) | <div align='center' title='Private'>🔑</div> | Movers Website: | HTML, SASS/SCSS |
+| [Student Grading](https://vincentlangat033.github.io/student_grading_system/) | <div align='center' title='Training'>🎓</div> | A Student Grading System: | HTML, SASS/SCSS |
+| [Resume](https://vinnie-kim-portfolio.vercel.app/) | <div align='center' title='Private'>🔑</div> | My private page | TypeScript, React, SASS/SCSS, Webpack |
+
+<br />
+
+<!-- ## 📈 Stats:
+ -->
+
+## 🔎 How to reach me:
+<p>Email me: <a href='mailto:kimutailangat033@gmail.com'>kimutailangat033@gmail.com</a> or welcome to <a href='https://vinnie-kim-portfolio.vercel.app/' alt='https://vinnie-kim-portfolio.vercel.app/' target='_blank'>My private page</a>!</p>
+
+<!-- # 💫 About Me:
 
 I have two years of experience in web development and have been creating full-stack web applications using modern HTML, CSS, Javascript, React and Ruby on Rails.<br><br>I've managed a project at a hackathon, and I work well with others. In addition to developing websites, I also design visuals and UI/UX.<br><br>I have a creative mind and a passion for developing user-friendly websites. In addition, I actively search out new technologies, enjoy reading and writing blog posts, and keep up with business trends and breakthroughs.
 
@@ -9,18 +83,18 @@ I have two years of experience in web development and have been creating full-st
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on Python Projects especially POS...
+<!-- - 🔭 I’m currently working on Python Projects especially POS...
 - 🌱 I’m currently learning Ruby on Rails for the backend Development...
 - 👯 I’m looking to collaborate on any React.js, Python , Ruby , Js projects...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: kimutailangat033@gmail.com...
 
-- ⚡ Fun fact: "When the code works dont touch it!"...
+- ⚡ Fun fact: "When the code works dont touch it!"... --> -->
 
 
-# 💻Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- # 💻Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
 <!-- # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=VincentLangat033&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VincentLangat033&theme=dark&hide_border=false)<br/>
