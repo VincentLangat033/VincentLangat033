@@ -1,6 +1,6 @@
 <h1 align='center'>< Hello world! /> 🤘🏻</h1>
 
-My name is **Vincent Kimutai** and I'm _~~Passionate!~~_ 😉 **frontend-developer**!
+My name is **Vincent Kimutai** and I'm a *_~~Passionate!~~*_ 😉 **Full-Stack-Developer**!
 
 <br />
 
