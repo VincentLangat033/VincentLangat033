@@ -73,14 +73,24 @@ Jest
 Webpack
 </td>
 </tr>
+<tr>
+<td>
+<img src='img/icons/Storybook.svg' title='Storybook' alt='Storybook' width='40'>&nbsp;&nbsp;
+</td>
+<td>
+Storybook
+</td>
+</tr>
+<tr>
+<td>
+<img src='img/icons/Styleguidist.svg' title='Styleguidist' alt='Styleguidist' width='40'>&nbsp;&nbsp;
+</td>
+<td>
+Styleguidist
+</td>
+</tr>
 
 </table>
-| <img src='img/icons/Flutter.svg' title='Flutter' alt='Flutter' width='40'>&nbsp;&nbsp; |
-| <img src='img/icons/Dart.svg' title='Dart' alt='dart' width='40'>&nbsp;&nbsp; |
-| <img src='img/icons/Jest.svg' title='Jest' alt='Jest' width='40'>&nbsp;&nbsp; |
-| <img src='img/icons/Webpack.svg' title='Webpack' alt='Webpack' width='40'>&nbsp;&nbsp; |
-| <img src='img/icons/Storybook.svg' title='Storybook' alt='Storybook' width='40'>&nbsp;&nbsp; |
-| <img src='img/icons/Styleguidist.svg' title='Styleguidist' alt='Styleguidist' width='40'>&nbsp;&nbsp; |
 </div>
 <br />
 
