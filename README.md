@@ -32,8 +32,17 @@ My name is **Vincent Kimutai** and I'm a  _~~Passionate!~~_ 😉 **Full-Stack-De
 
 🔬 **At the moment I'm interested in:**
 <div>
-| Title        | 
-| ------------- |
+<table>
+<tr>
+<th>
+Language Icon
+</th>
+<th>
+Language Name
+</th>
+</tr>
+
+</table>
 | <img src='img/icons/Flutter.svg' title='Flutter' alt='Flutter' width='40'>&nbsp;&nbsp; |
 | <img src='img/icons/Dart.svg' title='Dart' alt='dart' width='40'>&nbsp;&nbsp; |
 | <img src='img/icons/Jest.svg' title='Jest' alt='Jest' width='40'>&nbsp;&nbsp; |
