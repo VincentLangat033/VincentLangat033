@@ -22,7 +22,6 @@ My name is **Vincent Kimutai** and I'm a _~~Passionate!~~_ 😉 **Full-Stack-Dev
 <br />
 
 🔬 **At the moment I'm interested in:**
-
 <div>
 <table>
     <tr>
