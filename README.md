@@ -85,12 +85,14 @@ My name is **Vincent Kimutai** and I'm a _~~Passionate!~~_ 😉 **Full-Stack-Dev
 </div>
 <br />
 
+
 ## 🎯 Projects:
 
 <br />
 
 | Title                                                                               | Type                                                | Description                               | Technologies                                 |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | -------------------------------------------- |
+| [Halthy-Afya](https://kim-healthy-afya-app.up.railway.app/)            | <div align='center' title='Private'>🔑</div>        | A Doctor booking Management System | Django                                      |
 | [POS CLI](https://github.com/VincentLangat033/sprint-one-python-POS-CLI)            | <div align='center' title='Private'>🔑</div>        | A POS command line system based in python | Python                                       |
 | [HMS](https://hmsphase2project.netlify.app/)                                        | <div align='center' title='Real-Estate'>💰</div>    | House Management System                   | JavaScript, React, Redux, JSON,              |
 | [My Portfolio](https://vinnie-kim-portfolio.vercel.app/)                            | <div align='center' title='Personal' >💰</div>      | My personal portfolio Website             | JavaScript, React, Redux, SASS/SCSS, Webpack |
