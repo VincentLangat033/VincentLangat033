@@ -108,7 +108,7 @@ My name is **Vincent Kimutai** and I'm a _~~Passionate!~~_ 😉 **Full-Stack-Dev
 <table>
   <tr>
     <th>Github Stats</th>
-    <th>Languages</th>
+    <th> Most Used Languages</th>
   
   </tr>
   <tr>
